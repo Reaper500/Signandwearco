@@ -127,7 +127,7 @@ export default function Home() {
               transition={{ duration: 0.6 }}
             >
               <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 dark:text-white mb-6">
-                About jOES Creative Agency
+                About Signex Creative Agency
               </h2>
               <p className="text-lg text-gray-600 dark:text-gray-400 mb-4">
                 With years of experience in the creative industry, we've helped countless businesses

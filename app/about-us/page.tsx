@@ -85,7 +85,7 @@ export default function AboutUs() {
                 Our Story
               </h2>
               <p className="text-lg text-gray-600 dark:text-gray-400 mb-4">
-                jOES Creative Agency was founded with a simple mission: to help businesses
+                Signex Creative Agency was founded with a simple mission: to help businesses
                 transform their visions into reality through creative design and strategic
                 thinking. What started as a small team of passionate designers and developers has
                 grown into a full-service creative agency serving clients across various industries.
@@ -207,7 +207,7 @@ export default function AboutUs() {
               Meet Our Team
             </h2>
             <p className="text-lg text-gray-600 dark:text-gray-400">
-              The talented individuals behind jOES Creative Agency
+              The talented individuals behind Signex Creative Agency
             </p>
           </motion.div>
 
